@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gourango121
-- 👀 I’m interested in coding and contributing open source project.
+- 👀 I’m interested in coding and contributing in open source project.
 - 🌱 I’m currently learning asp.net core ,c#.
 - 💞️ I’m looking to collaborate on asp.net core projects.
 - 📫 you can reach me in following address,
